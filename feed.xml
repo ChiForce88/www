@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>ChiForce</title>
+    <link href="https://ChiForce.life/feed.xml" rel="self" />
+    <link href="https://ChiForce.life" />
+    <updated>2022-12-14T16:27:06-08:00</updated>
+    <author>
+        <name>Webmaster</name>
+    </author>
+    <id>https://ChiForce.life</id>
+
+    <entry>
+        <title>hello there!</title>
+        <author>
+            <name>Webmaster</name>
+        </author>
+        <link href="https://ChiForce.life/hello-there.html"/>
+        <id>https://ChiForce.life/hello-there.html</id>
+
+        <updated>2022-12-14T16:27:06-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
